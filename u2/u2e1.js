@@ -122,3 +122,4 @@ export class ReqRes {
             .catch(error => console.error('Error fetching users:', error));
     }
 }
+
